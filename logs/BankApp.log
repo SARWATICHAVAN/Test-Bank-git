@@ -1,0 +1,142 @@
+ 2024-08-11 19:49:34,930 : INFO : test_Bank_url001  : Testcase test_BankApp_Url is started  
+ 2024-08-11 19:49:34,930 : INFO : test_Bank_url001  : Opening browser  
+ 2024-08-11 19:49:34,930 : INFO : test_Bank_url001  : Checking page title  
+ 2024-08-11 19:49:34,945 : INFO : test_Bank_url001  : Taking screenshot for test pass  
+ 2024-08-11 19:49:35,071 : INFO : test_Bank_url001  : Test for url pass  
+ 2024-08-11 19:49:47,942 : INFO : test_login002  : Opening browser  
+ 2024-08-11 19:49:47,944 : INFO : test_login002  : Import login class as lp  
+ 2024-08-11 19:49:49,944 : INFO : test_login002  : Click login link  
+ 2024-08-11 19:49:50,377 : INFO : test_login002  : Enter username  
+ 2024-08-11 19:49:50,452 : INFO : test_login002  : Enter password  
+ 2024-08-11 19:49:54,482 : INFO : test_login002  : Click on login button  
+ 2024-08-11 19:50:06,435 : INFO : test_login002  : Check for driver title  
+ 2024-08-11 19:50:06,435 : INFO : test_login002  : Test for login pass  
+ 2024-08-11 19:50:18,640 : INFO : test_bank_signup003  : Opening browser  
+ 2024-08-11 19:50:18,641 : INFO : test_bank_signup003  : Import Signup class as su  
+ 2024-08-11 19:50:20,642 : INFO : test_bank_signup003  : Click on signup button  
+ 2024-08-11 19:50:22,352 : INFO : test_bank_signup003  : Enter random username  
+ 2024-08-11 19:50:24,440 : INFO : test_bank_signup003  : Enter random password  
+ 2024-08-11 19:50:26,465 : INFO : test_bank_signup003  : Enter random email  
+ 2024-08-11 19:50:28,495 : INFO : test_bank_signup003  : Enter random phone  
+ 2024-08-11 19:50:28,526 : INFO : test_bank_signup003  : scroll window  
+ 2024-08-11 19:50:33,547 : INFO : test_bank_signup003  : Click on create user  
+ 2024-08-11 19:50:43,795 : INFO : test_bank_signup003  : Check for user creation  
+ 2024-08-11 19:51:13,846 : INFO : test_bank_signup003  : Take screenshot for test fail  
+ 2024-08-11 19:51:14,129 : INFO : test_bank_signup003  : Test for Signup fail  
+ 2024-08-11 19:51:29,799 : INFO : test_search_user004  : Opening browser  
+ 2024-08-11 19:51:29,799 : INFO : test_search_user004  : Import login page class  
+ 2024-08-11 19:51:29,799 : INFO : test_search_user004  : Click on login link  
+ 2024-08-11 19:51:30,744 : INFO : test_search_user004  : Enter username  
+ 2024-08-11 19:51:30,819 : INFO : test_search_user004  : Entering password  
+ 2024-08-11 19:51:30,860 : INFO : test_search_user004  : click on login button  
+ 2024-08-11 19:51:33,428 : INFO : test_search_user004  : Import search user class from page objects  
+ 2024-08-11 19:51:33,428 : INFO : test_search_user004  : Click on user management  
+ 2024-08-11 19:51:34,253 : INFO : test_search_user004  : Enter username  
+ 2024-08-11 19:51:34,288 : INFO : test_search_user004  : scroll window  
+ 2024-08-11 19:51:34,297 : INFO : test_search_user004  : Click on search user  
+ 2024-08-11 19:51:38,203 : INFO : test_search_user004  : Check for valid search user  
+ 2024-08-11 19:51:38,229 : INFO : test_search_user004  : Test for Search user pass  
+ 2024-08-12 15:06:49,170 : INFO : test_Bank_url001  : Testcase test_BankApp_Url is started  
+ 2024-08-12 15:06:49,179 : INFO : test_Bank_url001  : Opening browser  
+ 2024-08-12 15:06:49,179 : INFO : test_Bank_url001  : Checking page title  
+ 2024-08-12 15:06:49,192 : INFO : test_Bank_url001  : Taking screenshot for test pass  
+ 2024-08-12 15:06:49,310 : INFO : test_Bank_url001  : Test for url pass  
+ 2024-08-12 15:07:01,452 : INFO : test_login002  : Opening browser  
+ 2024-08-12 15:07:01,452 : INFO : test_login002  : Import login class as lp  
+ 2024-08-12 15:07:03,454 : INFO : test_login002  : Click login link  
+ 2024-08-12 15:07:03,775 : INFO : test_login002  : Enter username  
+ 2024-08-12 15:07:03,844 : INFO : test_login002  : Enter password  
+ 2024-08-12 15:07:07,871 : INFO : test_login002  : Click on login button  
+ 2024-08-12 15:07:18,696 : INFO : test_login002  : Check for driver title  
+ 2024-08-12 15:07:18,699 : INFO : test_login002  : Test for login pass  
+ 2024-08-12 15:07:30,847 : INFO : test_search_user004  : Opening browser  
+ 2024-08-12 15:07:30,847 : INFO : test_search_user004  : Import login page class  
+ 2024-08-12 15:07:30,847 : INFO : test_search_user004  : Click on login link  
+ 2024-08-12 15:07:31,137 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:07:31,205 : INFO : test_search_user004  : Entering password  
+ 2024-08-12 15:07:31,233 : INFO : test_search_user004  : click on login button  
+ 2024-08-12 15:07:32,035 : INFO : test_search_user004  : Import search user class from page objects  
+ 2024-08-12 15:07:32,036 : INFO : test_search_user004  : Click on user management  
+ 2024-08-12 15:07:32,300 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:07:32,333 : INFO : test_search_user004  : scroll window  
+ 2024-08-12 15:07:32,341 : INFO : test_search_user004  : Click on search user  
+ 2024-08-12 15:07:35,606 : INFO : test_search_user004  : Check for valid search user  
+ 2024-08-12 15:07:35,622 : INFO : test_search_user004  : Test for Search user pass  
+ 2024-08-12 15:17:04,681 : INFO : test_Bank_url001  : Testcase test_BankApp_Url is started  
+ 2024-08-12 15:17:04,683 : INFO : test_Bank_url001  : Opening browser  
+ 2024-08-12 15:17:04,683 : INFO : test_Bank_url001  : Checking page title  
+ 2024-08-12 15:17:04,686 : INFO : test_Bank_url001  : Taking screenshot for test pass  
+ 2024-08-12 15:17:04,819 : INFO : test_Bank_url001  : Test for url pass  
+ 2024-08-12 15:17:17,137 : INFO : test_login002  : Opening browser  
+ 2024-08-12 15:17:17,137 : INFO : test_login002  : Import login class as lp  
+ 2024-08-12 15:17:19,139 : INFO : test_login002  : Click login link  
+ 2024-08-12 15:17:19,478 : INFO : test_login002  : Enter username  
+ 2024-08-12 15:17:19,547 : INFO : test_login002  : Enter password  
+ 2024-08-12 15:17:23,577 : INFO : test_login002  : Click on login button  
+ 2024-08-12 15:17:34,517 : INFO : test_login002  : Check for driver title  
+ 2024-08-12 15:17:34,520 : INFO : test_login002  : Test for login pass  
+ 2024-08-12 15:17:46,722 : INFO : test_search_user004  : Opening browser  
+ 2024-08-12 15:17:46,723 : INFO : test_search_user004  : Import login page class  
+ 2024-08-12 15:17:46,723 : INFO : test_search_user004  : Click on login link  
+ 2024-08-12 15:17:47,055 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:17:47,119 : INFO : test_search_user004  : Entering password  
+ 2024-08-12 15:17:47,152 : INFO : test_search_user004  : click on login button  
+ 2024-08-12 15:17:48,136 : INFO : test_search_user004  : Import search user class from page objects  
+ 2024-08-12 15:17:48,136 : INFO : test_search_user004  : Click on user management  
+ 2024-08-12 15:17:48,418 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:17:48,448 : INFO : test_search_user004  : scroll window  
+ 2024-08-12 15:17:48,457 : INFO : test_search_user004  : Click on search user  
+ 2024-08-12 15:17:52,041 : INFO : test_search_user004  : Check for valid search user  
+ 2024-08-12 15:17:52,059 : INFO : test_search_user004  : Test for Search user pass  
+ 2024-08-12 15:22:19,719 : INFO : test_Bank_url001  : Testcase test_BankApp_Url is started  
+ 2024-08-12 15:22:19,722 : INFO : test_Bank_url001  : Opening browser  
+ 2024-08-12 15:22:19,722 : INFO : test_Bank_url001  : Checking page title  
+ 2024-08-12 15:22:19,725 : INFO : test_Bank_url001  : Taking screenshot for test pass  
+ 2024-08-12 15:22:19,837 : INFO : test_Bank_url001  : Test for url pass  
+ 2024-08-12 15:22:37,608 : INFO : test_login002  : Opening browser  
+ 2024-08-12 15:22:37,610 : INFO : test_login002  : Import login class as lp  
+ 2024-08-12 15:22:39,611 : INFO : test_login002  : Click login link  
+ 2024-08-12 15:22:39,939 : INFO : test_login002  : Enter username  
+ 2024-08-12 15:22:40,008 : INFO : test_login002  : Enter password  
+ 2024-08-12 15:22:42,688 : INFO : test_search_user004  : Opening browser  
+ 2024-08-12 15:22:42,689 : INFO : test_search_user004  : Import login page class  
+ 2024-08-12 15:22:42,690 : INFO : test_search_user004  : Click on login link  
+ 2024-08-12 15:22:42,955 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:22:42,987 : INFO : test_search_user004  : Entering password  
+ 2024-08-12 15:22:43,018 : INFO : test_search_user004  : click on login button  
+ 2024-08-12 15:22:43,962 : INFO : test_search_user004  : Import search user class from page objects  
+ 2024-08-12 15:22:43,962 : INFO : test_search_user004  : Click on user management  
+ 2024-08-12 15:22:44,048 : INFO : test_login002  : Click on login button  
+ 2024-08-12 15:22:44,207 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:22:44,237 : INFO : test_search_user004  : scroll window  
+ 2024-08-12 15:22:44,244 : INFO : test_search_user004  : Click on search user  
+ 2024-08-12 15:22:47,605 : INFO : test_search_user004  : Check for valid search user  
+ 2024-08-12 15:22:47,620 : INFO : test_search_user004  : Test for Search user pass  
+ 2024-08-12 15:22:54,866 : INFO : test_login002  : Check for driver title  
+ 2024-08-12 15:22:54,869 : INFO : test_login002  : Test for login pass  
+ 2024-08-12 15:37:08,501 : INFO : test_login002  : Opening browser  
+ 2024-08-12 15:37:08,501 : INFO : test_login002  : Import login class as lp  
+ 2024-08-12 15:37:10,506 : INFO : test_login002  : Click login link  
+ 2024-08-12 15:37:10,758 : INFO : test_login002  : Enter username  
+ 2024-08-12 15:37:10,884 : INFO : test_login002  : Enter password  
+ 2024-08-12 15:37:14,966 : INFO : test_login002  : Click on login button  
+ 2024-08-12 15:37:22,362 : INFO : test_Bank_url001  : Testcase test_BankApp_Url is started  
+ 2024-08-12 15:37:22,362 : INFO : test_Bank_url001  : Opening browser  
+ 2024-08-12 15:37:22,362 : INFO : test_Bank_url001  : Checking page title  
+ 2024-08-12 15:37:22,367 : INFO : test_Bank_url001  : Taking screenshot for test pass  
+ 2024-08-12 15:37:22,448 : INFO : test_Bank_url001  : Test for url pass  
+ 2024-08-12 15:37:25,642 : INFO : test_login002  : Check for driver title  
+ 2024-08-12 15:37:25,698 : INFO : test_login002  : Test for login pass  
+ 2024-08-12 15:37:27,713 : INFO : test_search_user004  : Opening browser  
+ 2024-08-12 15:37:27,713 : INFO : test_search_user004  : Import login page class  
+ 2024-08-12 15:37:27,713 : INFO : test_search_user004  : Click on login link  
+ 2024-08-12 15:37:28,166 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:37:28,254 : INFO : test_search_user004  : Entering password  
+ 2024-08-12 15:37:28,328 : INFO : test_search_user004  : click on login button  
+ 2024-08-12 15:37:29,204 : INFO : test_search_user004  : Import search user class from page objects  
+ 2024-08-12 15:37:29,204 : INFO : test_search_user004  : Click on user management  
+ 2024-08-12 15:37:29,527 : INFO : test_search_user004  : Enter username  
+ 2024-08-12 15:37:29,611 : INFO : test_search_user004  : scroll window  
+ 2024-08-12 15:37:29,619 : INFO : test_search_user004  : Click on search user  
+ 2024-08-12 15:37:32,910 : INFO : test_search_user004  : Check for valid search user  
+ 2024-08-12 15:37:32,941 : INFO : test_search_user004  : Test for Search user pass  
